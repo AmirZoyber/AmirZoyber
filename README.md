@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ![GitHub stats]()
 -->
 
-<p
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green]" >
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green" >
 </p>
