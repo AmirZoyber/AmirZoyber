@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub stats]()
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green)
+
+<p
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green](https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green)" >
+</p>
