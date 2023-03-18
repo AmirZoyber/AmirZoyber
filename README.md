@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green](https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green)" >
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=amirzoyber&theme=blue-green]" >
 </p>
