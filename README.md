@@ -1,10 +1,7 @@
 ### Amir Hossein Khanshabani - @AmirZoyber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- #📫 How to reach me: [![label](https://img.shields.io/badge/author-AmirZoyber-orange?style=for-the-badge&logo=appveyor)](https://www.zil.ink/amirzoyber) 
+- 📫 How to reach me:
+- [![label](https://img.shields.io/badge/AmirZoyber-Links-Blue?style=for-the-badge&logo=[appveyor](https://simpleicons.org/icons/aboutdotme.svg))](https://www.zil.ink/amirzoyber) 
 - ⚡ I can work with: 
 <p>
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -18,7 +15,7 @@
 
 <!--
 ### Hi there 👋
-
+- 💬 Ask me about ...
 
 **AmirZoyber/AmirZoyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
